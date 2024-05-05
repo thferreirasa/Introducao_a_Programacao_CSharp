@@ -1,0 +1,15 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\bin\Debug\net8.0\repeticao-for.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\bin\Debug\net8.0\repeticao-for.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\bin\Debug\net8.0\repeticao-for.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\bin\Debug\net8.0\repeticao-for.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\bin\Debug\net8.0\repeticao-for.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\obj\Debug\net8.0\repeticao-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\obj\Debug\net8.0\repeticao-for.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\obj\Debug\net8.0\repeticao-for.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\obj\Debug\net8.0\repeticao-for.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\obj\Debug\net8.0\repeticao-for.sourcelink.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\obj\Debug\net8.0\repeticao-for.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\obj\Debug\net8.0\refint\repeticao-for.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\obj\Debug\net8.0\repeticao-for.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\obj\Debug\net8.0\repeticao-for.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-for\repeticao-for\obj\Debug\net8.0\ref\repeticao-for.dll

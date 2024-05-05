@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "repeticao-do-while/1.0.0": {
+        "runtime": {
+          "repeticao-do-while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "repeticao-do-while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

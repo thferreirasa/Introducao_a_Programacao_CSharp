@@ -1,0 +1,15 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\obj\Debug\net8.0\repeticao-do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\obj\Debug\net8.0\repeticao-do-while.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\obj\Debug\net8.0\repeticao-do-while.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\obj\Debug\net8.0\repeticao-do-while.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\obj\Debug\net8.0\repeticao-do-while.sourcelink.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\bin\Debug\net8.0\repeticao-do-while.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\bin\Debug\net8.0\repeticao-do-while.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\bin\Debug\net8.0\repeticao-do-while.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\bin\Debug\net8.0\repeticao-do-while.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\bin\Debug\net8.0\repeticao-do-while.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\obj\Debug\net8.0\repeticao-do-while.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\obj\Debug\net8.0\refint\repeticao-do-while.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\obj\Debug\net8.0\repeticao-do-while.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\obj\Debug\net8.0\repeticao-do-while.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Estudos\repeticao-do-while\repeticao-do-while\obj\Debug\net8.0\ref\repeticao-do-while.dll

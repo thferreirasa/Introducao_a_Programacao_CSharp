@@ -1,0 +1,14 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\bin\Debug\net8.0\lista-entradas-saidas.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\bin\Debug\net8.0\lista-entradas-saidas.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\bin\Debug\net8.0\lista-entradas-saidas.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\bin\Debug\net8.0\lista-entradas-saidas.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\bin\Debug\net8.0\lista-entradas-saidas.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\obj\Debug\net8.0\lista-entradas-saidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\obj\Debug\net8.0\lista-entradas-saidas.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\obj\Debug\net8.0\lista-entradas-saidas.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\obj\Debug\net8.0\lista-entradas-saidas.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\obj\Debug\net8.0\lista-entradas-saidas.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\obj\Debug\net8.0\refint\lista-entradas-saidas.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\obj\Debug\net8.0\lista-entradas-saidas.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\obj\Debug\net8.0\lista-entradas-saidas.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Entradas-Saidas\lista-entradas-saidas\lista-entradas-saidas\obj\Debug\net8.0\ref\lista-entradas-saidas.dll

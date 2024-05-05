@@ -1,0 +1,14 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\bin\Debug\net8.0\estrutura-repeticao.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\bin\Debug\net8.0\estrutura-repeticao.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\bin\Debug\net8.0\estrutura-repeticao.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\bin\Debug\net8.0\estrutura-repeticao.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\bin\Debug\net8.0\estrutura-repeticao.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\obj\Debug\net8.0\refint\estrutura-repeticao.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\obj\Debug\net8.0\estrutura-repeticao.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Listas\Lista-Estrutura-Repeticao\estrutura-repeticao\estrutura-repeticao\obj\Debug\net8.0\ref\estrutura-repeticao.dll

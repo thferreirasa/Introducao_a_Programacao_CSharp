@@ -1,0 +1,14 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\bin\Debug\net8.0\repeticao-while.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\bin\Debug\net8.0\repeticao-while.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\bin\Debug\net8.0\repeticao-while.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\bin\Debug\net8.0\repeticao-while.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\bin\Debug\net8.0\repeticao-while.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\obj\Debug\net8.0\refint\repeticao-while.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\obj\Debug\net8.0\repeticao-while.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao\Estudos\Repeticao-while\repeticao-while\repeticao-while\obj\Debug\net8.0\ref\repeticao-while.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Listas\\Lista-Estrutura-Repeticao\\estrutura-repeticao\\estrutura-repeticao\\estrutura-repeticao.csproj": {}
+    "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Listas_de_Exercicio\\estrutura-repeticao\\estrutura-repeticao\\estrutura-repeticao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Listas\\Lista-Estrutura-Repeticao\\estrutura-repeticao\\estrutura-repeticao\\estrutura-repeticao.csproj": {
+    "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Listas_de_Exercicio\\estrutura-repeticao\\estrutura-repeticao\\estrutura-repeticao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Listas\\Lista-Estrutura-Repeticao\\estrutura-repeticao\\estrutura-repeticao\\estrutura-repeticao.csproj",
+        "projectUniqueName": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Listas_de_Exercicio\\estrutura-repeticao\\estrutura-repeticao\\estrutura-repeticao.csproj",
         "projectName": "estrutura-repeticao",
-        "projectPath": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Listas\\Lista-Estrutura-Repeticao\\estrutura-repeticao\\estrutura-repeticao\\estrutura-repeticao.csproj",
+        "projectPath": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Listas_de_Exercicio\\estrutura-repeticao\\estrutura-repeticao\\estrutura-repeticao.csproj",
         "packagesPath": "C:\\Users\\Thais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Listas\\Lista-Estrutura-Repeticao\\estrutura-repeticao\\estrutura-repeticao\\obj\\",
+        "outputPath": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Listas_de_Exercicio\\estrutura-repeticao\\estrutura-repeticao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thais\\AppData\\Roaming\\NuGet\\NuGet.Config",

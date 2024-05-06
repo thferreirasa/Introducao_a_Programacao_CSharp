@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("matriz-triangular-inferior")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cc9e3041c9127e1dfaf317cdaa7f96fa8ff2938")]
 [assembly: System.Reflection.AssemblyProductAttribute("matriz-triangular-inferior")]
 [assembly: System.Reflection.AssemblyTitleAttribute("matriz-triangular-inferior")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

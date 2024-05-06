@@ -1,0 +1,15 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\bin\Debug\net8.0\loteria.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\bin\Debug\net8.0\loteria.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\bin\Debug\net8.0\loteria.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\bin\Debug\net8.0\loteria.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\bin\Debug\net8.0\loteria.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\obj\Debug\net8.0\loteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\obj\Debug\net8.0\loteria.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\obj\Debug\net8.0\loteria.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\obj\Debug\net8.0\loteria.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\obj\Debug\net8.0\loteria.sourcelink.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\obj\Debug\net8.0\loteria.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\obj\Debug\net8.0\refint\loteria.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\obj\Debug\net8.0\loteria.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\obj\Debug\net8.0\loteria.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\loteria\loteria\obj\Debug\net8.0\ref\loteria.dll

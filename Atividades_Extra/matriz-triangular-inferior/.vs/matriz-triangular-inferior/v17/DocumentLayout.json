@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Atividade-matriz-triangular-inferior\\matriz-triangular-inferior\\",
+  "WorkspaceRootPath": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Atividades_Extra\\matriz-triangular-inferior\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE6AD110-08FD-4982-B0EB-C5A2E8A94795}|matriz-triangular-inferior\\matriz-triangular-inferior.csproj|c:\\users\\thais\\documents\\jogos_digitais\\semestre_2024.1\\introducao_a_programacao\\atividade-matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AE6AD110-08FD-4982-B0EB-C5A2E8A94795}|matriz-triangular-inferior\\matriz-triangular-inferior.csproj|c:\\users\\thais\\documents\\jogos_digitais\\semestre_2024.1\\introducao_a_programacao_csharp\\atividades_extra\\matriz-triangular-inferior\\matriz-triangular-inferior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6AD110-08FD-4982-B0EB-C5A2E8A94795}|matriz-triangular-inferior\\matriz-triangular-inferior.csproj|solutionrelative:matriz-triangular-inferior\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Atividade-matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Atividades_Extra\\matriz-triangular-inferior\\matriz-triangular-inferior\\Program.cs",
               "RelativeDocumentMoniker": "matriz-triangular-inferior\\Program.cs",
-              "ToolTip": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Atividade-matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior\\Program.cs",
+              "ToolTip": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Atividades_Extra\\matriz-triangular-inferior\\matriz-triangular-inferior\\Program.cs",
               "RelativeToolTip": "matriz-triangular-inferior\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCEAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-29T13:16:39.257Z",
               "EditorCaption": ""

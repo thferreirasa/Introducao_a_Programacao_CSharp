@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Atividade-matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior.csproj": {}
+    "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Atividades_Extra\\matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Atividade-matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior.csproj": {
+    "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Atividades_Extra\\matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Atividade-matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior.csproj",
+        "projectUniqueName": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Atividades_Extra\\matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior.csproj",
         "projectName": "matriz-triangular-inferior",
-        "projectPath": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Atividade-matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior.csproj",
+        "projectPath": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Atividades_Extra\\matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior.csproj",
         "packagesPath": "C:\\Users\\Thais\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao\\Atividade-matriz-triangular-inferior\\matriz-triangular-inferior\\matriz-triangular-inferior\\obj\\",
+        "outputPath": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Atividades_Extra\\matriz-triangular-inferior\\matriz-triangular-inferior\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thais\\AppData\\Roaming\\NuGet\\NuGet.Config",

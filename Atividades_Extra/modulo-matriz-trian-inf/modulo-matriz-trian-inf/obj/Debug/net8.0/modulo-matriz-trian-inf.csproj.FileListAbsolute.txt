@@ -1,0 +1,15 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\bin\Debug\net8.0\modulo-matriz-trian-inf.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\bin\Debug\net8.0\modulo-matriz-trian-inf.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\bin\Debug\net8.0\modulo-matriz-trian-inf.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\bin\Debug\net8.0\modulo-matriz-trian-inf.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\bin\Debug\net8.0\modulo-matriz-trian-inf.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\obj\Debug\net8.0\modulo-matriz-trian-inf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\obj\Debug\net8.0\modulo-matriz-trian-inf.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\obj\Debug\net8.0\modulo-matriz-trian-inf.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\obj\Debug\net8.0\modulo-matriz-trian-inf.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\obj\Debug\net8.0\modulo-matriz-trian-inf.sourcelink.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\obj\Debug\net8.0\modulo-matriz-trian-inf.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\obj\Debug\net8.0\refint\modulo-matriz-trian-inf.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\obj\Debug\net8.0\modulo-matriz-trian-inf.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\obj\Debug\net8.0\modulo-matriz-trian-inf.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\modulo-matriz-trian-inf\modulo-matriz-trian-inf\obj\Debug\net8.0\ref\modulo-matriz-trian-inf.dll

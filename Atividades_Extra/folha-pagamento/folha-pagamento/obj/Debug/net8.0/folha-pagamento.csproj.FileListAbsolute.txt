@@ -1,0 +1,15 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\bin\Debug\net8.0\folha-pagamento.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\bin\Debug\net8.0\folha-pagamento.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\bin\Debug\net8.0\folha-pagamento.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\bin\Debug\net8.0\folha-pagamento.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\bin\Debug\net8.0\folha-pagamento.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\obj\Debug\net8.0\folha-pagamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\obj\Debug\net8.0\folha-pagamento.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\obj\Debug\net8.0\folha-pagamento.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\obj\Debug\net8.0\folha-pagamento.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\obj\Debug\net8.0\folha-pagamento.sourcelink.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\obj\Debug\net8.0\folha-pagamento.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\obj\Debug\net8.0\refint\folha-pagamento.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\obj\Debug\net8.0\folha-pagamento.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\obj\Debug\net8.0\folha-pagamento.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Atividades_Extra\folha-pagamento\folha-pagamento\obj\Debug\net8.0\ref\folha-pagamento.dll

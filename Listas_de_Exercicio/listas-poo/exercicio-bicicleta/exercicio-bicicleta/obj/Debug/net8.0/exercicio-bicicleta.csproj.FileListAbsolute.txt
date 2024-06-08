@@ -1,0 +1,15 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\bin\Debug\net8.0\exercicio-bicicleta.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\bin\Debug\net8.0\exercicio-bicicleta.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\bin\Debug\net8.0\exercicio-bicicleta.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\bin\Debug\net8.0\exercicio-bicicleta.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\bin\Debug\net8.0\exercicio-bicicleta.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\obj\Debug\net8.0\exercicio-bicicleta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\obj\Debug\net8.0\exercicio-bicicleta.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\obj\Debug\net8.0\exercicio-bicicleta.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\obj\Debug\net8.0\exercicio-bicicleta.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\obj\Debug\net8.0\exercicio-bicicleta.sourcelink.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\obj\Debug\net8.0\exercicio-bicicleta.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\obj\Debug\net8.0\refint\exercicio-bicicleta.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\obj\Debug\net8.0\exercicio-bicicleta.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\obj\Debug\net8.0\exercicio-bicicleta.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-bicicleta\exercicio-bicicleta\obj\Debug\net8.0\ref\exercicio-bicicleta.dll

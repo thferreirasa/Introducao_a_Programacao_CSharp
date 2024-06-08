@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exercicio-triangulo/1.0.0": {
+        "runtime": {
+          "exercicio-triangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio-triangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

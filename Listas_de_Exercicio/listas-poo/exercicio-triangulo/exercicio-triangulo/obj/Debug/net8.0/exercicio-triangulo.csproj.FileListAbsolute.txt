@@ -1,0 +1,15 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\bin\Debug\net8.0\exercicio-triangulo.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\bin\Debug\net8.0\exercicio-triangulo.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\bin\Debug\net8.0\exercicio-triangulo.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\bin\Debug\net8.0\exercicio-triangulo.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\bin\Debug\net8.0\exercicio-triangulo.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\obj\Debug\net8.0\exercicio-triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\obj\Debug\net8.0\exercicio-triangulo.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\obj\Debug\net8.0\exercicio-triangulo.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\obj\Debug\net8.0\exercicio-triangulo.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\obj\Debug\net8.0\exercicio-triangulo.sourcelink.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\obj\Debug\net8.0\exercicio-triangulo.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\obj\Debug\net8.0\refint\exercicio-triangulo.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\obj\Debug\net8.0\exercicio-triangulo.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\obj\Debug\net8.0\exercicio-triangulo.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\listas-poo\exercicio-triangulo\exercicio-triangulo\obj\Debug\net8.0\ref\exercicio-triangulo.dll

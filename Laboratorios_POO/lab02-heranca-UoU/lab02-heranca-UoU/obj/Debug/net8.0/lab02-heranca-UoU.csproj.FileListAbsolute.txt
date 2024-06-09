@@ -1,0 +1,15 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\bin\Debug\net8.0\lab02-heranca-UoU.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\bin\Debug\net8.0\lab02-heranca-UoU.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\bin\Debug\net8.0\lab02-heranca-UoU.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\bin\Debug\net8.0\lab02-heranca-UoU.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\bin\Debug\net8.0\lab02-heranca-UoU.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\obj\Debug\net8.0\lab02-heranca-UoU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\obj\Debug\net8.0\lab02-heranca-UoU.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\obj\Debug\net8.0\lab02-heranca-UoU.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\obj\Debug\net8.0\lab02-heranca-UoU.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\obj\Debug\net8.0\lab02-heranca-UoU.sourcelink.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\obj\Debug\net8.0\lab02-heranca-UoU.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\obj\Debug\net8.0\refint\lab02-heranca-UoU.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\obj\Debug\net8.0\lab02-heranca-UoU.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\obj\Debug\net8.0\lab02-heranca-UoU.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab02-heranca-UoU\lab02-heranca-UoU\obj\Debug\net8.0\ref\lab02-heranca-UoU.dll

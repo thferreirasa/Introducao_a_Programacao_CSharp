@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Laboratorios_POO\\lab03-associacao-UoU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C5A8BC5-426F-4491-802C-D4CE4B9CECF6}|lab03-associacao-UoU\\lab03-associacao-UoU.csproj|c:\\users\\thais\\documents\\jogos_digitais\\semestre_2024.1\\introducao_a_programacao_csharp\\laboratorios_poo\\lab03-associacao-uou\\lab03-associacao-uou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C5A8BC5-426F-4491-802C-D4CE4B9CECF6}|lab03-associacao-UoU\\lab03-associacao-UoU.csproj|solutionrelative:lab03-associacao-uou\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Laboratorios_POO\\lab03-associacao-UoU\\lab03-associacao-UoU\\Program.cs",
+              "RelativeDocumentMoniker": "lab03-associacao-UoU\\Program.cs",
+              "ToolTip": "C:\\Users\\Thais\\Documents\\Jogos_Digitais\\Semestre_2024.1\\Introducao_a_Programacao_CSharp\\Laboratorios_POO\\lab03-associacao-UoU\\lab03-associacao-UoU\\Program.cs",
+              "RelativeToolTip": "lab03-associacao-UoU\\Program.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:21:16.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

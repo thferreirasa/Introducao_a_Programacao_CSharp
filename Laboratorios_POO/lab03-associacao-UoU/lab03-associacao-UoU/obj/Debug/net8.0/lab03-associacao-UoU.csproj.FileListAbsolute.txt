@@ -1,0 +1,15 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\bin\Debug\net8.0\lab03-associacao-UoU.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\bin\Debug\net8.0\lab03-associacao-UoU.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\bin\Debug\net8.0\lab03-associacao-UoU.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\bin\Debug\net8.0\lab03-associacao-UoU.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\bin\Debug\net8.0\lab03-associacao-UoU.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\obj\Debug\net8.0\lab03-associacao-UoU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\obj\Debug\net8.0\lab03-associacao-UoU.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\obj\Debug\net8.0\lab03-associacao-UoU.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\obj\Debug\net8.0\lab03-associacao-UoU.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\obj\Debug\net8.0\lab03-associacao-UoU.sourcelink.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\obj\Debug\net8.0\lab03-associacao-UoU.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\obj\Debug\net8.0\refint\lab03-associacao-UoU.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\obj\Debug\net8.0\lab03-associacao-UoU.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\obj\Debug\net8.0\lab03-associacao-UoU.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab03-associacao-UoU\lab03-associacao-UoU\obj\Debug\net8.0\ref\lab03-associacao-UoU.dll

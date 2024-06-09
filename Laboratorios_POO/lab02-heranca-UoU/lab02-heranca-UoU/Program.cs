@@ -65,7 +65,17 @@ namespace UoU
             Console.WriteLine("Pontos de vida aumentados!! {0} pontos de vida", this.pontosDeVida);
         }
 
-        
+        public override void AtacarComArma()
+        {
+            Console.WriteLine("{0} atacou com sua arma Aliança!", this.nome);
+        }
+
+        public override void LancarMagia()
+        {
+            Console.WriteLine("{0} lançou a super magia Aliança!", this.nome);
+        }
+
+
     }
 
     public class HeroiHorda : Heroi
@@ -88,6 +98,16 @@ namespace UoU
             base.ReduzirPontosVida();
             this.pontosDeVida -= 0.2;
             Console.WriteLine("Pontos de vida reduzidos! {0} pontos de vida", this.pontosDeVida);
+        }
+
+        public override void AtacarComArma()
+        {
+            Console.WriteLine("{0} atacou com sua arma Horda!", this.nome);
+        }
+
+        public override void LancarMagia()
+        {
+            Console.WriteLine("{0} usou o poder da Horda!", this.nome);
         }
     }
 
@@ -127,6 +147,16 @@ namespace UoU
             // aumentar e reduzir vida de Zodar
             zodar.AumentarPontosVida();
             zodar.ReduzirPontosVida();
+
+            // variaveis ali e hor
+            Heroi ali = new HeroiAlianca("Kadum", 100);
+            Heroi hor = new HeroiHorda("Zumzum", 100);
+
+            // invocar metodos abstratos de Heroi usando variaveis ali e hor
+            ali.LancarMagia();
+            ali.AtacarComArma();
+            hor.LancarMagia();
+            hor.AtacarComArma();
             
         }
 

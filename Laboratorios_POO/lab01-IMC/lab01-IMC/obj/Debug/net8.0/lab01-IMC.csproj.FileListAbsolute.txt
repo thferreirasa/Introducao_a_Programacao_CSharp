@@ -1,0 +1,15 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\bin\Debug\net8.0\lab01-IMC.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\bin\Debug\net8.0\lab01-IMC.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\bin\Debug\net8.0\lab01-IMC.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\bin\Debug\net8.0\lab01-IMC.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\bin\Debug\net8.0\lab01-IMC.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\obj\Debug\net8.0\lab01-IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\obj\Debug\net8.0\lab01-IMC.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\obj\Debug\net8.0\lab01-IMC.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\obj\Debug\net8.0\lab01-IMC.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\obj\Debug\net8.0\lab01-IMC.sourcelink.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\obj\Debug\net8.0\lab01-IMC.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\obj\Debug\net8.0\refint\lab01-IMC.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\obj\Debug\net8.0\lab01-IMC.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\obj\Debug\net8.0\lab01-IMC.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Laboratorios_POO\lab01-IMC\lab01-IMC\obj\Debug\net8.0\ref\lab01-IMC.dll

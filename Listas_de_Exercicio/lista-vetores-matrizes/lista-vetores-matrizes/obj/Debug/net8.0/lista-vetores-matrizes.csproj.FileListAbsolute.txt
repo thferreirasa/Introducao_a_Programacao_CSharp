@@ -1,0 +1,15 @@
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\bin\Debug\net8.0\lista-vetores-matrizes.exe
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\bin\Debug\net8.0\lista-vetores-matrizes.deps.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\bin\Debug\net8.0\lista-vetores-matrizes.runtimeconfig.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\bin\Debug\net8.0\lista-vetores-matrizes.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\bin\Debug\net8.0\lista-vetores-matrizes.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\obj\Debug\net8.0\lista-vetores-matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\obj\Debug\net8.0\lista-vetores-matrizes.AssemblyInfoInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\obj\Debug\net8.0\lista-vetores-matrizes.AssemblyInfo.cs
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\obj\Debug\net8.0\lista-vetores-matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\obj\Debug\net8.0\lista-vetores-matrizes.sourcelink.json
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\obj\Debug\net8.0\lista-vetores-matrizes.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\obj\Debug\net8.0\refint\lista-vetores-matrizes.dll
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\obj\Debug\net8.0\lista-vetores-matrizes.pdb
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\obj\Debug\net8.0\lista-vetores-matrizes.genruntimeconfig.cache
+C:\Users\Thais\Documents\Jogos_Digitais\Semestre_2024.1\Introducao_a_Programacao_CSharp\Listas_de_Exercicio\lista-vetores-matrizes\lista-vetores-matrizes\obj\Debug\net8.0\ref\lista-vetores-matrizes.dll
